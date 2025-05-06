@@ -1,0 +1,13 @@
+# Simple Python code without input
+
+name = "Pranav"
+age = 21
+email = "pranav@example.com"
+city = "Dhule"
+
+# Displaying the information
+print("--- User Information ---")
+print("Name:", name)
+print("Age:", age)
+print("Email:", email)
+print("City:", city)
